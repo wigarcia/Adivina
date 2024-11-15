@@ -1,3 +1,5 @@
+# ¡Hola! 👋
+*"Construyendo juntos, aprendiendo de todos, creciendo como uno."*
 
 # Adivina el Número
 
