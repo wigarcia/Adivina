@@ -44,16 +44,16 @@
 ## 🖥️ Ejemplos de juego
 
 ### Inicio del juego
-![Inicio del juego](https://github.com/wigarcia/Adivina/Pantallas/Inicio.png)
+![Inicio del juego](https://github.com/wigarcia/Adivina/blob/main/Pantallas/Inicio.png)
 
 ### Intento fallido
-![Intento fallido](https://github.com/wigarcia/Adivina/Pantallas/Intentos.png)
+![Intento fallido](https://github.com/wigarcia/Adivina/blob/main/Pantallas/Intentos.png)
 
 ### Ganar el juego
-![Ganar el juego](https://github.com/wigarcia/Adivina/Pantallas/Victoria.png)
+![Ganar el juego](https://github.com/wigarcia/Adivina/blob/main/Pantallas/Victoria.png)
 
 ### Perder el juego
-![Perder el juego](https://github.com/wigarcia/Adivina/Pantallas/Derrota.png)
+![Perder el juego](https://github.com/wigarcia/Adivina/blob/main/Pantallas/Derrota.png)
 
 ## 🛡️ Contribuciones
 
